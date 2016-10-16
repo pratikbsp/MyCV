@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PratikCV</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="profile">profilePic</string>
+    <string name="name">PRATIK SAXENA</string>
+    <string name="profession">Android Developer</string>
+    <string name="dobText">06/01/1994</string>
+    <string name="homeText">Room No. B-132, Sapphire Hostel, ISM Dhanbad </string>
+    <string name="emailText">pratikbsp@yahoo.com</string>
+    <string name="mobText">8083367824</string>
+    <string name="skypeText">pratikbsp</string>
+    <string name="Year">Year</string>
+    <string name="Board">Board/University</string>
+    <string name="Degree">Degree</string>
+    <string name="Percentage">%/CGPA</string>
+    <string name="BTech">B.Tech</string>
+    <string name="XII">XII</string>
+    <string name="X">X</string>
+    <string name="C2016">2016</string>
+    <string name="S2011">2011</string>
+    <string name="S2009">2009</string>
+    <string name="ISMD">ISM Dhanbad</string>
+    <string name="CGBSE1">CGBSE</string>
+    <string name="CGBSE2">CGBSE</string>
+
+</resources>
